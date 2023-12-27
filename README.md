@@ -30,12 +30,39 @@ Summary sketches to visualize core services
 Google Cloud Skills Boost - Digital Leader Learning Path
 > https://www.cloudskillsboost.google/paths/9
 
+Google Cloud Learn
+> https://cloud.google.com/learn/
 
 # Introduction
 
-### Cloud Advantages
-* Trade CAPEX for Variable expense. Meaning they don't own infrastructure now, but they rent
+### What's Cloud Computing
+* "Cloud computing is the on-demand availability of computing resources (such as storage and infrastructure), as services over the internet. It eliminates the need for individuals and businesses to self-manage physical resources themselves, and only pay for what they use."(Google Cloud)
 
+### On-Premise
+* Company owns the servers
+* Company hires the IT people
+* Compny takes all the risk
+* Company pays or rent the real-estate
+
+### Cloud Providers
+* Providers own the servers
+* Providers hire the IT people
+* Providers pay or rents the real-estate
+* Company is responsible for its configuration cloud services and code, providers take care of the rest
+
+### Evolution Cloud Hosting
+
+#### Dedicated Server
+* 1 physical machine dedicated to a single a business. It runs a single web-app/site.
+* Very expensive, high security, high maintenance.
+
+#### Virtual Private Server
+
+* 1 physical machine dedicated to a single business. This machine is virtualized into sub-machines, which runs multiple web-app/sites.
+
+#### Shared Hosting
+* 1 physical machine, shared by other businesses. It relies on most tentans under-utilizing their resoucers. Very cheap and limited.
+  
 ## Regions and Zones
 * Each Region has three or more zones
 * Each Zone has one or more discrete clusters
