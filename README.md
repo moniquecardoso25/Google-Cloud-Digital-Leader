@@ -35,7 +35,7 @@ Google Cloud Learn
 
 # Introduction to Cloud Computing
 
-### What's Cloud Computing
+## What's Cloud Computing
 * "Cloud computing is the on-demand availability of computing resources (such as storage and infrastructure), as services over the internet. It eliminates the need for individuals and businesses to self-manage physical resources themselves, and only pay for what they use."(Google Cloud)
 
 ### On-Premise
@@ -50,7 +50,7 @@ Google Cloud Learn
 * Providers pay or rents the real-estate
 * Company is responsible for its configuration cloud services and code, providers take care of the rest
 
-### Evolution Cloud Hosting
+## Evolution Cloud Hosting
 
 #### Dedicated Server
 * 1 physical machine dedicated to a single a business. It runs a single web-app/site.
@@ -125,11 +125,102 @@ Source: FreeCodeCamp
 * Customers are responsible for data and configuration of access controls within the GCP platform.
 * Google is responsible for the underlying infrastructure.
 
-  
+![image](https://github.com/moniquecardoso25/Google-Cloud-Digital-Leader/assets/140358716/137b7e10-e1ee-4403-aa18-0e4afe9d31bb)
 
-## Regions and Zones
+Source: FreeCodeCamp 
+
+
+![image](https://github.com/moniquecardoso25/Google-Cloud-Digital-Leader/assets/140358716/83e653ba-f4c1-4b07-9180-e6185c626ed8)
+
+Source: FreeCodeCamp 
+
+
+![image](https://github.com/moniquecardoso25/Google-Cloud-Digital-Leader/assets/140358716/c2465e90-7202-4826-ae60-2b544859f1b9)
+
+Source: FreeCodeCamp 
+
+
+## Cloud Computing Deployment Models
+
+### Public Cloud
+* Everything built on Cloud Provider. Cloud-native.
+* Private and Public subnet.
+
+### Private Cloud
+* Everything build on company's datacenters. Knwon as On-premise. It could be OpenStack.
+* Private and Public subnet.
+
+### Hybrid Cloud
+* Use both On-premise and Cloud service provider.
+* Private and Public subnet (VPN conection) betwen on-premise datacenter and Google Cloud.
+
+
+### Cross-Cloud
+* Use multiple cloud providers.
+* Anthos in GCP offers a control plane for compute across multiple CSPs and On-premise environments.
+* Example: Connection - Amazon EKS <-> Azure Arc <-> GCP Kubernetes Engine
+
+
+![image](https://github.com/moniquecardoso25/Google-Cloud-Digital-Leader/assets/140358716/18c29863-1f8f-4c2d-b291-51dfbb71df67)
+
+Source: FreeCodeCamp 
+
+## Total Cost of Owenership(TCO)
+
+### On-Premise(CAPEX)
+* Software licence fees
+  
+* Implementation
+* Configuration
+* Training
+
+* Physical Security
+* Hardware
+* IT Personal
+* Maintenance
+
+
+### GCP(OPEX) 
+* Subscription fees
+* 75% savings. Physical secutiry until maintenance below are GCPs responsability
+Just
+* Implementation
+* Configuration
+* Training
+
+
+## Capital x Operational Expenditure
+
+## Capital Expenditure(CAPEX)
+
+Spend money upfront on physical infrastructure. 
+Capital expenses - guess upfront what a person plan to spend.
+
+CUSTOMER COSTS
+* Server(computers)
+* Network(routers, switches, cables)
+* Storage(hard drives)
+* Disaster recovery
+* Backup and archieve costs
+* Datacenter(rent, physical security, cooling)
+* Technical personal
+
+## Operational Expenditure(OPEX)
+
+Customers only have non-physical costs because they are associated with local data centers that have transferred the cost to the service provider.
+Operation Expenses - try a service or product without investing in equipment.
+
+CUSTOMER COSTS
+* Train employees on Cloud services
+* Lease software and customizing features
+* Pay for Cloud support
+* Bill based on cloud metrics -> Compute and storage usage.
+
+
+### Regions and Zones
 * Each Region has three or more zones
 * Each Zone has one or more discrete clusters
+
 
 # GCE (Google Compute Engine)
 ### Image
@@ -139,12 +230,4 @@ Source: FreeCodeCamp
 ### Instance Template
 * You cannot edit an instance template once you created it. You can only create a copy of it and modify the copy
 
-## Discounts
-### Sustained Discounts
-![](img/sustainedDiscounts.png)
-* They are automatically applied for GCE and GKE
 
-### Committed use discounts
-![](img/committedUse.png)
-
-## VMs
