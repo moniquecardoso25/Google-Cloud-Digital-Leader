@@ -41,3 +41,30 @@ To replatform virtual machines as they are.  VMware Engine helps migrate and run
 
 ### 11 - An organization's applications run on an inflexible, on-premises architecture. The organization has decided to modernize their existing applications with the cloud. What may have prompted this business decision?
 Developers want to test ideas and experiment with more ease. Modernizing applications means they can make alterations and innovate more easily.
+
+### 12 - An organization with hybrid cloud architecture wants to build an application once and be able to run it both on-premises and in their public cloud. Which Google Cloud solution should the organization use?
+Anthos.
+
+### 13 - A retail store has discovered a cost-effective solution for creating self-service kiosks. They can use existing check-out hardware and purchase a virtual customer service application. Why do they also need an API?
+To connect the new application with the legacy system. APIs can create new business value by connecting legacy systems (the checkout hardware) with new software (the virtual customer service application).
+
+### 14 - A bank wants to track the success of their existing ATM network, which has been modernized with APIs to instantly notify customers about their transfers. What is the benefit of using Apigee to achieve this goal?
+It has dashboards that chart dimensions and metrics to report on APIs. Apigee includes analytics services which allow enterprises to report on various aspects of an API.
+
+### 15 - A large organization is struggling to manage their cloud costs effectively. They want to increase visibility into cloud costs. Which cost management approach should the organization use?
+Establish a partnership between finance, technology, and business teams. Cross-team partnerships are part of the visibility cost management strategy.
+
+### 16 - What issues can arise when organizations integrate third-party systems into their cloud infrastructure?
+Without sufficient security measures and regular checks, unsecured third-party systems can pose a threat to data security. Unsecured third-party systems are a cybersecurity threat.
+
+### 17 -  How does a least privilege resource access model contribute to cloud security?
+Employees only have access to the cloud resources necessary for their job. This is the definition of a least privilege model.
+
+### 18 -  An organization wants to measure everything as part of its new DevOps philosophy. What should the organization measure?
+The reliability and health of their systems. This is one of the five DevOps aims.
+
+### 19 - An organization wants to introduce a new feature to their customer-facing application. They want to follow SRE best practices. What should the organization do?
+Roll out the new feature to a subset of customers to test it out. Implementing gradual changes is one of the SRE best practices
+
+### 20 - An organization wants to evaluate the performance of their entire cloud infrastructure, including metrics like server uptime and response rate reports. Which Google Cloud tool should the organization use?
+Cloud Monitoring. It enables users to monitor the performance of their entire cloud infrastructure.
