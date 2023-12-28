@@ -119,6 +119,7 @@ A cloud provider have hundreds of cloud services which are joined into diverses 
 Shared Responsability Model is a simple visualization to determine what customers are responsable for and what Google is responsabile for related to GCP.
 
 ![image](https://github.com/moniquecardoso25/Google-Cloud-Digital-Leader/assets/140358716/9217695b-3dd4-4a79-ae2c-ef21603816a1)
+
 Source: FreeCodeCamp 
 
 * Customers are responsible for data and configuration of access controls within the GCP platform.
