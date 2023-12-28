@@ -52,33 +52,33 @@ Google Cloud Learn
 
 ## Evolution Cloud Hosting
 
-#### Dedicated Server
+### Dedicated Server
 * 1 physical machine dedicated to a single a business. It runs a single web-app/site.
 * **Very expensive, high security, high maintenance.**
 
-#### Virtual Private Server
+### Virtual Private Server
 
 * 1 physical machine dedicated to a single business. This machine is virtualized into sub-machines, which runs multiple web-app/sites.
 
-#### Shared Hosting
+### Shared Hosting
 * 1 physical machine, shared by other businesses. It relies on most tentans under-utilizing their resoucers. **Very cheap and limited.**
 
-#### Cloud Hosting
+### Cloud Hosting
 * Multiple physical machines, which act as one system, it is abstracted in multiple cloud services. **Scalable, Flexible, Cost-Effective, Secure, High Configurability.**
 
-### Benefits of Cloud Comptuting
+## Benefits of Cloud Comptuting
 
-#### Cost-Effective
+### Cost-Effective
 * You pay for what you consume, no up-front cost. On-demand pricing/Pay-as-you-go(PAYG) which many customers sharing the cost of resources.
-#### Global
+### Global
 * Launch workload anywhere in the world, choose a region.
-#### Secure
+### Secure
 * Cloud provider takes care of physical security, which can be secure by default or you can configure access down to a granular level.
-#### Reliable(reability)
+### Reliable(reability)
 * Disaster recovery, data backup, data replication and fault torelance.
-#### Scalable(scalability)
+### Scalable(scalability)
 * Decrease or increase resources and services based on demand.
-#### Elastic(Elasticity)
+### Elastic(Elasticity)
 * Automate scaling during spikes and drop in demand.
 
 ## Common Cloud Services
