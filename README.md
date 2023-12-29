@@ -217,6 +217,37 @@ CUSTOMER COSTS
 * Bill based on cloud metrics -> Compute and storage usage.
 
 
+## Cloud Architecture Terminologies
+
+### Availability 
+
+* Ability to ensure a service remains available by ensuring there is no single point of failure and/or ensure a certain level of performance. (Highly Available -HA)
+
+* Cloud Load Balancing - A load balancer allows you to evenly distribute traffic to multiple servers in one or more datacenter. If a datacenter or server becomes unabailable(unhealthy) the load balancer will route the traffic to only available datacenters with servers.
+
+* Running a workload across multiple Zones ensures that if 1 or 2 Zones become unavailable, service/applications remain available.
+
+### Elasticity 
+* High Elasticity is ability to automatically increase or decrease capacity based on the current demand of traffic, memory and computing power.
+
+Horizontal Scaling
+* Scaling Out - Add more servers of the same size
+* Scaling In - Removing more servers of the same size.
+
+Vertical Scaling is normally hard for tradicional achitecture, it`s usually see horiozntal scaling described with Elasticity.
+
+
+### Fault Tolerance 
+* Ability to prevent a failure
+
+### Scalability 
+* Ability to grow rapidly or unimpeded
+
+### Disaster Recovery 
+* Ability to recover from a failure(Highly Durable - DR)
+
+
+
 ### Regions and Zones
 * Each Region has three or more zones
 * Each Zone has one or more discrete clusters
