@@ -72,9 +72,11 @@ Source: SkillCurb video
 ### 21 - A financial institution that is your customer has given you a project to complete that calls for you to use `both Google Cloud` and `their own data center`. The customer expressly requests that Google Cloud only be used if there is a need for more space and that all apps be hosted on the client`s own data center. Which Cloud Hosting architecture would you use?
 `Hybrid Cloud`. It combines the private and public cloud architecture. The client needs this combination.
 
-### 22 -
+### 22 - A Google Cloud solution that gives them direct `server` and `storage access`, `similar` `to` what have with `traditional servers` in the virtual data center, has been requested by your client, and insurance firm. Which of the following Google Cloud service models would you include?
+`Iaas(Infrastructure as a Service)`. Similar to tradicional servers. Iaas cloud options provide consumers access to the servers and storage.
 
-### 23 -
+### 23 - Which support package for users of Google Cloud providers `"Customer Aware Support"` and `"Technical Account Manager"` services?
+`Premium Support`. The services of "Customer Aware Support" and "Technical Account Manager" are included with premium support.
 
 ### 24 -
 
