@@ -78,9 +78,11 @@ Source: SkillCurb video
 ### 23 - Which support package for users of Google Cloud providers `"Customer Aware Support"` and `"Technical Account Manager"` services?
 `Premium Support`. The services of "Customer Aware Support" and "Technical Account Manager" are included with premium support.
 
-### 24 -
+### 24 - Jacqueline is figuring out which Google Cloud database service to recommend to a new customer who runs a `small business` and need a structured, `well-known system` for a `local application`. What ought to be Jacqueline`s top option?
+`Cloud SQL`. Its suitable for a small businesses and works with `well-known databases` like `SQL Server and MySQL`.
 
-### 25 -
+### 25 - Sylvester has been tasked with creating a system that can evaluate demand in close to `real-time` using `past sales data over a 30-day period`. What would be the most advantageous Google Cloud service for Sylvester to use?
+`Bigtable`. It performs well when analyzing `time series data`.
 
 
 
