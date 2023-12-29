@@ -82,7 +82,7 @@ Source: SkillCurb video
 `Cloud SQL`. Its suitable for a small businesses and works with `well-known databases` like `SQL Server and MySQL`.
 
 ### 25 - Sylvester has been tasked with creating a system that can evaluate demand in close to `real-time` using `past sales data over a 30-day period`. What would be the most advantageous Google Cloud service for Sylvester to use?
-`Bigtable`. It performs well when analyzing `time series data`
+`Bigtable`. It performs well when analyzing `time series data`.
 
 
 
