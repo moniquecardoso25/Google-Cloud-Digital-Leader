@@ -91,10 +91,11 @@ Source: SkillCurb video
 
 
 
+
 BONUS QUESTION
 
 ### 51 - The code used in the production environment is said to have a problem. Your developer needs to inject a new logging statement and take a snapshot of the application`s operating state in order to identify the problem. How is this accomplished?
 Cloud Debugger. Analyzing the behavior of code in production is made easier with Cloud Debugger. 
 
 
-### 22 - 
+
