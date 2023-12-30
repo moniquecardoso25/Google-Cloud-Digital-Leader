@@ -130,7 +130,7 @@ Source: SkillCurb video
 ### 40 - A major global financial powerhouse that operates in many different nations uses Google Cloud. The company has made the decision to use various Google Cloud technologies to assist `protect` its data against network-based volumetric distributed `denial-of-service(DDoS) attacks` in order to further increase the security of the client data. Which Google Cloud product would you advise utilizing for this?
 `Google Cloud Armor`. Network-based DDoS attacks, application attacks, and other threats are all protected by Cloud Armor for infrastructure and apps.
 
-### 41 - 
+### 41 - Which of the follwing use cases would IAP(Identity Aware Proxy) not be used for?
 
 ### 42 - 
 
