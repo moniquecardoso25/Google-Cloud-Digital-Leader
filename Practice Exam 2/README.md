@@ -130,21 +130,47 @@ Source: SkillCurb video
 ### 40 - A major global financial powerhouse that operates in many different nations uses Google Cloud. The company has made the decision to use various Google Cloud technologies to assist `protect` its data against network-based volumetric distributed `denial-of-service(DDoS) attacks` in order to further increase the security of the client data. Which Google Cloud product would you advise utilizing for this?
 `Google Cloud Armor`. Network-based DDoS attacks, application attacks, and other threats are all protected by Cloud Armor for infrastructure and apps.
 
-### 41 - Which of the follwing use cases would IAP(Identity Aware Proxy) not be used for?
+### 41 - Which of the follwing use cases would IAP (Identity Aware Proxy) `not be used for`?
+`Providing richer access controls to protect to secure systems by using an end-user request and ensuring each request is authenticated and authorized`. IAP in this instance, we should use BeyondCorp Enterprise.
 
-### 42 - 
-
-### 43 - 
-
-### 44 - 
-
-### 45 - 
+### 42 - A financial company like yours has signed up for an enhanced assistance service. Your monitoring team has received several customer complaints about the `risk of revenue loss` due to infrastructure performance `degradation` in production. Which priority support case ought to be raised while creating one for this?
+`P2`. When the performance of the production infrastructure deterioriates, resulting in decreased productivity and potential for revenue loss, a P2 support case is raised.
 
 
+![image](https://github.com/moniquecardoso25/Google-Cloud-Digital-Leader/assets/140358716/b82d76e4-998e-4e40-b2cb-4b78d3617b6d)
+
+Source: SkillCurb
+
+### 43 - Customers can join in `video meetings` using which Google Cloud product?
+`Google Meet`. It is a google cloud product that provides video conferencing and online meeting capabilities.
+
+### 44 - Which of the following `is not` a stage for Google Product Launch?
+`Public Availability`. It is not an appropriate stage for a product launch
 
 
+![image](https://github.com/moniquecardoso25/Google-Cloud-Digital-Leader/assets/140358716/a65bfe35-edd3-4655-86a6-67c7bbc3b237)
+
+Source: SkillCurb
 
 
+### 45 - Which of the Google Cloud services listed below assists in the execution of `builds` on `Google Cloud Infrastructure`?
+`Google Build`. Google Cloud Infrastructure builds are carried out with the help of Cloud Build.
+
+### 46 - Choose the Google Cloud `Compute option` from the list below.
+`Cloud Run`. It is a fully managed compute platform that automatically `scales your containerized applications`. It allows you to run containers in a serveless environment without worrying about managing the underlying infrastructure.
+
+### 47 - Google Cloud was recently acquired by your company. You have been contacted by the development team with a request to `manag`e, `store and protect` their build `artifacts`. Which Google Cloud product would you advice using?
+`Artifact Registry`. Aids in securely managing, creating and maintaining artifacts.
+
+![image](https://github.com/moniquecardoso25/Google-Cloud-Digital-Leader/assets/140358716/c0764c39-b6f1-4b3b-aaa0-4bbf0525ef92)
+
+Source: SkillCurb
+
+### 48 -
+
+### 49 -
+
+### 50 -
 
 
 BONUS QUESTION
