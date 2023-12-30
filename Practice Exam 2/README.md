@@ -84,9 +84,11 @@ Source: SkillCurb video
 ### 25 - Sylvester has been tasked with creating a system that can evaluate demand in close to `real-time` using `past sales data over a 30-day period`. What would be the most advantageous Google Cloud service for Sylvester to use?
 `Bigtable`. It performs well when analyzing `time series data`.
 
+### 26 - A major logistics company utilizing Google Cloud intends to anticipate package volume with precision using infomation from 'real-time' and 'predictive analytics'. They want to use data from several clouds in the 'data warehouse' and analyse petabyte of data using ANSI 'SQL' in order to do this. One of the main criteria is that the product used to meet this need must have zero overhead. Which Google Cloud product would you advice utilizing?
+'Bigquery'. It's a multi-cloud data warehouse that is flexible and serverless, very affordable and scalable.
 
-
-
+### 27 - Your team is seeking for the best storage for 'picture' libraries and 'web asset' libraries. The team also anticipates employing the chosen 'storage' as a 'data lake' in addition to this. Which option is the most suitable for this use?
+'Cloud storage'. It's designed to store large volumes of data, including images and web assets. They offer scalable and durable storage solutions that can handle a variety of data types, making them suitable for storing picture and web asset libraries.
 
 
 
