@@ -166,11 +166,14 @@ Source: SkillCurb
 
 Source: SkillCurb
 
-### 48 -
+### 48 - A major logistics company utilizing Google Cloud intends to anticipate package volume with precision using information from real-time and predictive analytics. They want to use data from several clouds in the `data warehouse` and `analyze pentabytes` of data using `ANSI SQL` in order to do this. One of the main criteria is that the product used to meet this need must have `zero overhead`. Which Google Cloud product would you advise utilizing?
+`Bigquery`. Multi-cloud data warehouse that is flexible and serveless. Very affordable and scalable.
 
-### 49 -
+### 49 - Susan`s firm is transitioning to the cloud as a result of its relationships with a colocation provider that went out of business and caused repeated service interruptions. Although she is aware that the organization`s data is `not yet cost-sensitive`, she nevertheless wants to make sure it is safe and as `inaccessible to outsiders` as feasible. Which cloud architecture does her advise the company to use?
+`Private cloud`. Given all factors, private cloud is most likely the most secure cloud configuration and would be the best option.
 
-### 50 -
+### 50 - Elizabeth is in charge of managing the cloud migration for her business. Due to the nature of their business, they have chosen a hybrid strategy that enables them to continue processing some data on-premises in order to comply with regulatory requirements while lauching other container-based apps that require more quick scalability to Google Cloud. Elizabeth believes that it is essential to centralize system monitoring for both practical and financial reasons. What services from the Google Cloud should Elizabeth rely on?
+`Anthos`. Its support for an uniform development and operations experience in both cloud and on-premises setting. Anthos is a contemporary application management plarform.
 
 
 BONUS QUESTION
