@@ -35,4 +35,9 @@ Explanation:
 You can filter findings by detector name and finding type using the Security Command Center Vulnerabilities tab in the Google Cloud console
 
 
+### 05 - You are currently managing workloads running on Windows Server for which your company owns the licenses. Your workloads are only needed during working hours, which allows you to shut down the instances during the weekend. Your Windows Server licenses are up for renewal in a month, and you want to optimize your license cost. What should you do?
 
+ `Migrate the workloads to Compute Engine with a pay-as-you-go (PAYG) model.`
+
+Explanation:
+License cost will be reduced / eliminated if you go with "D" option. You don't need BYOL as the license is going to expire soon anyway. If license were for another year or so, then BYOL would have been the choice.
