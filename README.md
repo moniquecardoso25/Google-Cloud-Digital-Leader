@@ -4,20 +4,7 @@ Summary for the Google Cloud Digital Leader Certification.
 
 ## Table Of Contents
 01. [Introduction](#introduction-to-cloud-computing)
-02. [Google Compute Engine](#gce-google-compute-engine)
-03. [Iaas, Paas, Saas](#iaas-paas-saas)
-04. [GCP Compute Services](#gcp-compute-services)
-05. [Databases](#databases)
-06. [Identity Access Management](#iam)
-07. [Resource Organization](#resource-organization-in-gcp)
-08. [More on Virtual Machines](#vms-contd)
-09. [DevOps](#devops)
-10. [Decoupling with pub-sub](#decoupling-w-pub-sub)
-11. [Other Services](#other-services)
-12. [Architectures in the Cloud](#arcitectures-in-the-cloud)
-13. [Cost Management in GCP](#cost-management-in-gcp)
-14. [Summary](#final-review)
-15. [Practice Test Notes](#notes)
+
 
 ## References and Resources
 Google Cloud Digital Leader Certification Course - Pass the Exam - FreeCodeCamp
