@@ -41,3 +41,54 @@ You can filter findings by detector name and finding type using the Security Com
 
 Explanation:
 License cost will be reduced / eliminated if you go with "D" option. You don't need BYOL as the license is going to expire soon anyway. If license were for another year or so, then BYOL would have been the choice.
+
+### 06 - Your organization runs a distributed application in the Compute Engine virtual machines. Your organization needs redundancy, but it also needs extremely fast communication (less than 10 milliseconds) between the parts of the application in different virtual machines. Where should your organization locate this virtual machines?
+
+'In different zones within a single region'.
+
+Explanation:
+Since it guarantees a latency of ~10 milliseconds is maintained, well also giving the redundancy of multi-zone. If it was D, we could not guarantee 10 milliseconds between the different regions.
+
+
+### 07 - An organization decides to migrate their on-premises environment to the cloud. They need to determine which resource components still need to be assigned ownership. Which two functions does a public cloud provider own? (Choose two.)
+
+'Hardware maintenance'
+'Hardware capacity management'
+
+Explanation:
+A & D. CSP is generally responsible for the maintenance of all its hardware. Whereas customer is responsible for how the application-side is run in those hardware.
+
+### 08 - You are a program manager within a Software as a Service (SaaS) company that offers rendering software for animation studios. Your team needs the ability to allow scenes to be scheduled at will and to be interrupted at any time to restart later. Any individual scene rendering takes less than 12 hours to complete, and there is no service-level agreement (SLA) for the completion time for all scenes. Results will be stored in a global Cloud Storage bucket. The compute resources are not bound to any single geographical location. This software needs to run on Google Cloud in a cost-optimized way.
+What should you do?
+
+'Deploy the application on Compute Engine using preemptible instances'
+
+Explanation:
+Can be interrupted at any time to restart later, software needs to run on Google Cloud in a cost-optimized way
+
+### 09 - Your manager wants to restrict communication of all virtual machines with internet access; with resources in another network; or with a resource outside Compute Engine. It is expected that different teams will create new folders and projects in the near future. How would you restrict all virtual machines from having an external IP address?
+
+'Define an organization policy at the root organization node to restrict virtual machine instances from having an external IP address'
+
+Explanation:
+
+Reference:
+https://cloud.google.com/resource-manager/docs/organization-policy/overview
+" target="_blank" style="word-break: break-all;">
+
+### 10 - Your multinational organization has servers running mission-critical workloads on its premises around the world. You want to be able to manage these workloads consistently and centrally, and you want to stop managing infrastructure. What should your organization do?
+
+'Migrate the workloads to a public cloud'
+
+Explanation:
+A is correct. Key is manage centrally. Manage these workloads consistently and centrally, and you want to stop managing infrastructure.
+
+### 11 -
+
+### 12 -
+
+### 13 -
+
+### 14 -
+
+### 15 -
