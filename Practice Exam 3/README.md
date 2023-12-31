@@ -44,7 +44,7 @@ License cost will be reduced / eliminated if you go with "D" option. You don't n
 
 ### 06 - Your organization runs a distributed application in the Compute Engine virtual machines. Your organization needs redundancy, but it also needs extremely fast communication (less than 10 milliseconds) between the parts of the application in different virtual machines. Where should your organization locate this virtual machines?
 
-'In different zones within a single region'.
+`In different zones within a single region.`
 
 Explanation:
 Since it guarantees a latency of ~10 milliseconds is maintained, well also giving the redundancy of multi-zone. If it was D, we could not guarantee 10 milliseconds between the different regions.
@@ -52,8 +52,8 @@ Since it guarantees a latency of ~10 milliseconds is maintained, well also givin
 
 ### 07 - An organization decides to migrate their on-premises environment to the cloud. They need to determine which resource components still need to be assigned ownership. Which two functions does a public cloud provider own? (Choose two.)
 
-'Hardware maintenance'
-'Hardware capacity management'
+`Hardware maintenance.`
+`Hardware capacity management.`
 
 Explanation:
 A & D. CSP is generally responsible for the maintenance of all its hardware. Whereas customer is responsible for how the application-side is run in those hardware.
@@ -61,14 +61,14 @@ A & D. CSP is generally responsible for the maintenance of all its hardware. Whe
 ### 08 - You are a program manager within a Software as a Service (SaaS) company that offers rendering software for animation studios. Your team needs the ability to allow scenes to be scheduled at will and to be interrupted at any time to restart later. Any individual scene rendering takes less than 12 hours to complete, and there is no service-level agreement (SLA) for the completion time for all scenes. Results will be stored in a global Cloud Storage bucket. The compute resources are not bound to any single geographical location. This software needs to run on Google Cloud in a cost-optimized way.
 What should you do?
 
-'Deploy the application on Compute Engine using preemptible instances'
+`Deploy the application on Compute Engine using preemptible instances.`
 
 Explanation:
 Can be interrupted at any time to restart later, software needs to run on Google Cloud in a cost-optimized way
 
 ### 09 - Your manager wants to restrict communication of all virtual machines with internet access; with resources in another network; or with a resource outside Compute Engine. It is expected that different teams will create new folders and projects in the near future. How would you restrict all virtual machines from having an external IP address?
 
-'Define an organization policy at the root organization node to restrict virtual machine instances from having an external IP address'
+`Define an organization policy at the root organization node to restrict virtual machine instances from having an external IP address.`
 
 Explanation:
 
@@ -78,17 +78,51 @@ https://cloud.google.com/resource-manager/docs/organization-policy/overview
 
 ### 10 - Your multinational organization has servers running mission-critical workloads on its premises around the world. You want to be able to manage these workloads consistently and centrally, and you want to stop managing infrastructure. What should your organization do?
 
-'Migrate the workloads to a public cloud'
+`Migrate the workloads to a public cloud.`
 
 Explanation:
 A is correct. Key is manage centrally. Manage these workloads consistently and centrally, and you want to stop managing infrastructure.
 
-### 11 -
+### 11 - Your organization stores highly sensitive data on-premises that cannot be sent over the public internet. The data must be processed both on-premises and in the cloud. What should your organization do?
 
-### 12 -
+`Enable Private Google Access in your Google Cloud VPC network`
 
-### 13 -
+Explanation:
+After the service provider provisions your connection, you can start passing traffic between your networks by using the service provider's network.
 
-### 14 -
+Reference:
+https://cloud.google.com/network-connectivity/docs/interconnect/concepts/partner-overview
 
-### 15 -
+### 12 - Your company's development team is building an application that will be deployed on Cloud Run. You are designing a CI/CD pipeline so that any new version of the application can be deployed in the fewest number of steps possible using the CI/CD pipeline you are designing. You need to select a storage location for the images of the application after the CI part of your pipeline has built them.
+What should you do?
+
+`Store the images in Container Registry.`
+
+Explanation:
+
+Reference:
+https://cloud.google.com/container-registry/docs/pushing-and-pulling
+" target="_blank" style="word-break: break-all;">
+
+### 13 - Each of the three cloud service models - infrastructure as a service (IaaS), platform as a service (PaaS), and software as a service (SaaS) - offers benefits between flexibility and levels of management by the cloud provider and the customer.
+Why would SaaS be the right choice of service model?
+
+`You want to minimize the level of management by the customer.`
+
+Explanation:
+Benefits of SaaS - The main benefit of SaaS is that it offloads all infrastructure and application management to the SaaS vendor
+
+### 14 - As your organization increases its release velocity, the VM-based application upgrades take a long time to perform rolling updates due to OS boot times. You need to make the application deployments faster.
+What should your organization do?
+
+`Convert your applications into containers.`
+
+Explanation:
+The last sentence is key. "You need to make the application deployments faster." By converting apps into containers, you speed up the deployment by removing the OS boot component in the previous statement. Answer is B
+
+### 15 - Your organization uses Active Directory to authenticate users. Users' Google account access must be removed when their Active Directory account is terminated.
+
+`Configure single sign-on in the Google domain.`
+
+Explanation:
+Your organization uses Active Directory to authenticate users. Then you need to use Single sign-on (SSO) is an authentication scheme that allows a user to log in with a single ID and password to different systems and software. SSO allows IT departments to administrator a single identity that can access many machines and cloud services.
