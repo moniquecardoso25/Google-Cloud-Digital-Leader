@@ -141,7 +141,7 @@ Both maintenance cost becomes cheaper and management becomes easier when subsidi
 `Coldline storage is for infrequently accessed data.`
 
 Explanation:
-> https://www.msp360.com/resources/blog/google-cloud-nearline-storage-vs-coldline-vs-standard/"target="_blank" style="word-break: break-all;">
+> https://www.msp360.com/resources/blog/google-cloud-nearline-storage-vs-coldline-vs-standard/"target="_blank"style="word-break:break-all;">
 
 ### 18 - What would provide near-unlimited availability of computing resources without requiring your organization to procure and provision new equipment?
 
