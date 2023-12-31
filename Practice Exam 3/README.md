@@ -100,7 +100,7 @@ What should you do?
 Explanation:
 
 Reference:
-https://cloud.google.com/container-registry/docs/pushing-and-pulling"target="_blank" style="word-break:break-all;">
+https://cloud.google.com/container-registry/docs/pushing-and-pulling"target="_blank"style="word-break:break-all;">
 
 ### 13 - Each of the three cloud service models - infrastructure as a service (IaaS), platform as a service (PaaS), and software as a service (SaaS) - offers benefits between flexibility and levels of management by the cloud provider and the customer.
 Why would SaaS be the right choice of service model?
@@ -152,7 +152,7 @@ Explanation:
 `Cloud Functions.`
 
 Explanation:
-https://firebase.google.com/docs/functions/use-cases"target="_blank"style="word-break: break-all;">
+https://firebase.google.com/docs/functions/use-cases"target="_blank"style="word-break:break-all;">
 
 ### 20 - Your organization is developing an application that will capture a large amount of data from millions of different sensor devices spread all around the world. Your organization needs a database that is suitable for worldwide, high-speed data storage of a large amount of unstructured data. Which Google Cloud product should your organization choose?
 
