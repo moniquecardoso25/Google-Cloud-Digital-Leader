@@ -153,13 +153,13 @@ Explanation:
 
 `Cloud Functions.`
 
-Explanations:
+Explanation:
 > https://firebase.google.com/docs/functions/use-cases"target="_blank" style="word-break: break-all;">
 
 ### 20 - Your organization is developing an application that will capture a large amount of data from millions of different sensor devices spread all around the world. Your organization needs a database that is suitable for worldwide, high-speed data storage of a large amount of unstructured data. Which Google Cloud product should your organization choose?
 
 `Cloud Bigtable.`
 
-Explanations:
+Explanation:
 A fully managed, scalable NoSQL database service for large analytical and operational workloads with up to 99,999% availability.
 Consistent sub-10ms latency-hangle millions of requests per second. Ideal for use cases such as personalization, ad tech, fintech, digital media and IoT.
