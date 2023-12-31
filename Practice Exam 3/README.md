@@ -73,8 +73,7 @@ Can be interrupted at any time to restart later, software needs to run on Google
 Explanation:
 
 Reference:
-https://cloud.google.com/resource-manager/docs/organization-policy/overview
-" target="_blank" style="word-break: break-all;">
+https://cloud.google.com/resource-manager/docs/organization-policy/overview"target="_blank"style="word-break: break-all;">
 
 ### 10 - Your multinational organization has servers running mission-critical workloads on its premises around the world. You want to be able to manage these workloads consistently and centrally, and you want to stop managing infrastructure. What should your organization do?
 
