@@ -101,7 +101,7 @@ What should you do?
 Explanation:
 
 Reference:
-https://cloud.google.com/container-registry/docs/pushing-and-pulling
+> https://cloud.google.com/container-registry/docs/pushing-and-pulling
 " target="_blank" style="word-break: break-all;">
 
 ### 13 - Each of the three cloud service models - infrastructure as a service (IaaS), platform as a service (PaaS), and software as a service (SaaS) - offers benefits between flexibility and levels of management by the cloud provider and the customer.
@@ -126,3 +126,42 @@ The last sentence is key. "You need to make the application deployments faster."
 
 Explanation:
 Your organization uses Active Directory to authenticate users. Then you need to use Single sign-on (SSO) is an authentication scheme that allows a user to log in with a single ID and password to different systems and software. SSO allows IT departments to administrator a single identity that can access many machines and cloud services.
+
+
+### 16 - Your company has recently acquired three growing startups in three different countries. You want to reduce overhead in infrastructure management and keep your costs low without sacrificing security and quality of service to your customers.
+How should you meet these requirements?
+
+`Host all your subsidiaries' services together with your existing services on the public cloud.`
+
+Explanation:
+Both maintenance cost becomes cheaper and management becomes easier when subsidiaries workloads along with parent organisation's workloads are deployed on the public cloud.
+
+### 17 - What is the difference between Standard and Coldline storage?
+
+`Coldline storage is for infrequently accessed data.`
+
+Explanation:
+> https://www.msp360.com/resources/blog/google-cloud-nearline-storage-vs-coldline-vs-standard/
+" target="_blank" style="word-break: break-all;">
+
+### 18 - What would provide near-unlimited availability of computing resources without requiring your organization to procure and provision new equipment?
+
+`Public cloud.`
+
+> https://cloud.google.com/docs/overview
+
+### 19 - You are a program manager for a team of developers who are building an event-driven application to allow users to follow one another's activities in the app. Each time a user adds himself as a follower of another user, a write occurs in the real-time database. The developers will develop a lightweight piece of code that can respond to database writes and generate a notification to let the appropriate users know that they have gained new followers. The code should integrate with other cloud services such as Pub/Sub, Firebase, and Cloud APIs to streamline the orchestration process. The application requires a platform that automatically manages underlying infrastructure and scales to zero when there is no activity. Which primary compute resource should your developers select, given these requirements?
+
+`Cloud Functions.`
+
+Explanations:
+> https://firebase.google.com/docs/functions/use-cases
+" target="_blank" style="word-break: break-all;">
+
+### 20 - Your organization is developing an application that will capture a large amount of data from millions of different sensor devices spread all around the world. Your organization needs a database that is suitable for worldwide, high-speed data storage of a large amount of unstructured data. Which Google Cloud product should your organization choose?
+
+`Cloud Bigtable.`
+
+Explanations:
+A fully managed, scalable NoSQL database service for large analytical and operational workloads with up to 99,999% availability.
+Consistent sub-10ms latency-hangle millions of requests per second. Ideal for use cases such as personalization, ad tech, fintech, digital media and IoT.
