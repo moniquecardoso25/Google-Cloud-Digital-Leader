@@ -141,8 +141,7 @@ Both maintenance cost becomes cheaper and management becomes easier when subsidi
 `Coldline storage is for infrequently accessed data.`
 
 Explanation:
-> https://www.msp360.com/resources/blog/google-cloud-nearline-storage-vs-coldline-vs-standard/
-" target="_blank" style="word-break: break-all;">
+> https://www.msp360.com/resources/blog/google-cloud-nearline-storage-vs-coldline-vs-standard/"target="_blank" style="word-break: break-all;">
 
 ### 18 - What would provide near-unlimited availability of computing resources without requiring your organization to procure and provision new equipment?
 
@@ -155,8 +154,7 @@ Explanation:
 `Cloud Functions.`
 
 Explanations:
-> https://firebase.google.com/docs/functions/use-cases
-" target="_blank" style="word-break: break-all;">
+> https://firebase.google.com/docs/functions/use-cases"target="_blank" style="word-break: break-all;">
 
 ### 20 - Your organization is developing an application that will capture a large amount of data from millions of different sensor devices spread all around the world. Your organization needs a database that is suitable for worldwide, high-speed data storage of a large amount of unstructured data. Which Google Cloud product should your organization choose?
 
