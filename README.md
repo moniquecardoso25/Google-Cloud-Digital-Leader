@@ -1,6 +1,6 @@
 # GOOGLE CLOUD DIGITAL LEADER ANNOTATIONS
 
-Summary for the Google Cloud Digital Leader Certification. 
+Summary for the Google Cloud Digital Leader learning
 
 ## Table Of Contents
 01. [Introduction](#introduction-to-cloud-computing)
